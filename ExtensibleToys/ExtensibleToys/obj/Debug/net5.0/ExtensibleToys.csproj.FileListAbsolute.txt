@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Pulpit\C#\ExtensibleToys\ExtensibleToys\bin\Debug\net5.0\ExtensibleToys.exe
+C:\Users\Admin\OneDrive\Pulpit\C#\ExtensibleToys\ExtensibleToys\bin\Debug\net5.0\ExtensibleToys.deps.json
+C:\Users\Admin\OneDrive\Pulpit\C#\ExtensibleToys\ExtensibleToys\bin\Debug\net5.0\ExtensibleToys.runtimeconfig.json
+C:\Users\Admin\OneDrive\Pulpit\C#\ExtensibleToys\ExtensibleToys\bin\Debug\net5.0\ExtensibleToys.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Pulpit\C#\ExtensibleToys\ExtensibleToys\bin\Debug\net5.0\ExtensibleToys.dll
+C:\Users\Admin\OneDrive\Pulpit\C#\ExtensibleToys\ExtensibleToys\bin\Debug\net5.0\ref\ExtensibleToys.dll
+C:\Users\Admin\OneDrive\Pulpit\C#\ExtensibleToys\ExtensibleToys\bin\Debug\net5.0\ExtensibleToys.pdb
+C:\Users\Admin\OneDrive\Pulpit\C#\ExtensibleToys\ExtensibleToys\obj\Debug\net5.0\ExtensibleToys.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Pulpit\C#\ExtensibleToys\ExtensibleToys\obj\Debug\net5.0\ExtensibleToys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Pulpit\C#\ExtensibleToys\ExtensibleToys\obj\Debug\net5.0\ExtensibleToys.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Pulpit\C#\ExtensibleToys\ExtensibleToys\obj\Debug\net5.0\ExtensibleToys.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Pulpit\C#\ExtensibleToys\ExtensibleToys\obj\Debug\net5.0\ExtensibleToys.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Pulpit\C#\ExtensibleToys\ExtensibleToys\obj\Debug\net5.0\ExtensibleToys.dll
+C:\Users\Admin\OneDrive\Pulpit\C#\ExtensibleToys\ExtensibleToys\obj\Debug\net5.0\ref\ExtensibleToys.dll
+C:\Users\Admin\OneDrive\Pulpit\C#\ExtensibleToys\ExtensibleToys\obj\Debug\net5.0\ExtensibleToys.pdb
+C:\Users\Admin\OneDrive\Pulpit\C#\ExtensibleToys\ExtensibleToys\obj\Debug\net5.0\ExtensibleToys.genruntimeconfig.cache
