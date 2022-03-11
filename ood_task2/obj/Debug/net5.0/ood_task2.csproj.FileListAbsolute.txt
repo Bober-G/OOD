@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Pulpit\ood_task2\ood_task2\ood_task2\bin\Debug\net5.0\ood_task2.exe
+C:\Users\Admin\OneDrive\Pulpit\ood_task2\ood_task2\ood_task2\bin\Debug\net5.0\ood_task2.deps.json
+C:\Users\Admin\OneDrive\Pulpit\ood_task2\ood_task2\ood_task2\bin\Debug\net5.0\ood_task2.runtimeconfig.json
+C:\Users\Admin\OneDrive\Pulpit\ood_task2\ood_task2\ood_task2\bin\Debug\net5.0\ood_task2.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Pulpit\ood_task2\ood_task2\ood_task2\bin\Debug\net5.0\ood_task2.dll
+C:\Users\Admin\OneDrive\Pulpit\ood_task2\ood_task2\ood_task2\bin\Debug\net5.0\ref\ood_task2.dll
+C:\Users\Admin\OneDrive\Pulpit\ood_task2\ood_task2\ood_task2\bin\Debug\net5.0\ood_task2.pdb
+C:\Users\Admin\OneDrive\Pulpit\ood_task2\ood_task2\ood_task2\obj\Debug\net5.0\ood_task2.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Pulpit\ood_task2\ood_task2\ood_task2\obj\Debug\net5.0\ood_task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Pulpit\ood_task2\ood_task2\ood_task2\obj\Debug\net5.0\ood_task2.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Pulpit\ood_task2\ood_task2\ood_task2\obj\Debug\net5.0\ood_task2.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Pulpit\ood_task2\ood_task2\ood_task2\obj\Debug\net5.0\ood_task2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Pulpit\ood_task2\ood_task2\ood_task2\obj\Debug\net5.0\ood_task2.dll
+C:\Users\Admin\OneDrive\Pulpit\ood_task2\ood_task2\ood_task2\obj\Debug\net5.0\ref\ood_task2.dll
+C:\Users\Admin\OneDrive\Pulpit\ood_task2\ood_task2\ood_task2\obj\Debug\net5.0\ood_task2.pdb
+C:\Users\Admin\OneDrive\Pulpit\ood_task2\ood_task2\ood_task2\obj\Debug\net5.0\ood_task2.genruntimeconfig.cache
